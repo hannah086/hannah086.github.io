@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e72ef24c-36f1-4408-962a-f630e97b47ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/birthday-basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/birthday-cake.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bubbles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jquery.fullPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/memories.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/.idea/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/BirthdayCake.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Memories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2018.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2018_05_20_21_21_IMG_5487.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2020_07_27_04_04_IMG_5478.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2020_07_27_04_23_IMG_5503.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/5.2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/6.1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/6.2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/6.3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/61.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7.1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7.2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7.3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7.4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/8.0.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/9.1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/9.2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/9.3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/9.4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/HappyBirthday.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/classroom.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/graduate.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/left.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/life.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/together.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.idea/js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/auto-play.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/birthday-cake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.fullPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.fullPage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/memories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.mp3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fE8tobka1TIXwa27ppcOdo20ff" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e72ef24c-36f1-4408-962a-f630e97b47ef" name="Default Changelist" comment="" />
+      <created>1595772108179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595772108179</updated>
+      <workItem from="1595772109709" duration="42160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595789362097">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1046/1920.0.1600.870@0.0.1920.1046" timestamp="1595789362097" />
+    <state x="769" y="334" width="440" height="469" key="FileChooserDialogImpl" timestamp="1595828059726">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="769" y="334" width="440" height="469" key="FileChooserDialogImpl/0.0.1920.1046/1920.0.1600.870@0.0.1920.1046" timestamp="1595828059726" />
+    <state x="786" y="420" key="Github.ShareDialog" timestamp="1595828097537">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="786" y="420" key="Github.ShareDialog/0.0.1920.1046/1920.0.1600.870@0.0.1920.1046" timestamp="1595828097537" />
+    <state x="337" y="205" key="SettingsEditor" timestamp="1595827885986">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="337" y="205" key="SettingsEditor/0.0.1920.1046/1920.0.1600.870@0.0.1920.1046" timestamp="1595827885986" />
+    <state x="753" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595828591761">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="753" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1046/1920.0.1600.870@0.0.1920.1046" timestamp="1595828591761" />
+    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1595773027052">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup/0.0.1920.1046/1920.0.1600.870@0.0.1920.1046" timestamp="1595773027052" />
+  </component>
+</project>
